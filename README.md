@@ -1,6 +1,6 @@
 # ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
-<h3>Name:      SHAHIN J                </h3>
-<h3>Register Number:   212223040190           </h3>
+<h3>Name:      GANESH PRABHU J                </h3>
+<h3>Register Number:   212223220023           </h3>
 <H3>Aim:</H3>
 <p>
     To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
